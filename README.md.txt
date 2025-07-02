@@ -1,3 +1,9 @@
+#app folder
+database.py
+schemas.py
+models.py
+these three files should be present inside app folder
+
 # Data Upload and Query API
 
 A FastAPI backend for uploading CSV data, storing it in a database, and exposing API endpoints to query the data. All API requests are logged to the database.
@@ -77,3 +83,5 @@ Run:
 
 ```bash
 python show_logs.py
+
+thank you....
